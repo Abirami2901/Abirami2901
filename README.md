@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abirami2901
 - 👀 I’m interested  data science.
-- 🌱 I’m currently learning MCA at University of Madras and seeking entry-level data science jobs
+- 🌱 I’m an MCA graduate at University of Madras and seeking entry-level data science jobs
 - 💞️ I have worked on several projects that I'm proud of as a part of my academics.  I’m looking to collaborate on group projects.
 - 📫 Reach me out on abivenkatesan29@gmail.com
 
